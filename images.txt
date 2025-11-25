@@ -4,5 +4,5 @@ nginx:1.27.2
 mysql:8.4.3
 mysql:8.0.36
 rabbitmq:3.9.13-management
-jenkins:latest
+jenkins/jenkins
 
