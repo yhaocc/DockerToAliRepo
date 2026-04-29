@@ -1,3 +1,4 @@
+# 镜像版本
 redis:7.4.1
 redis:5.0
 nginx:1.27.2
@@ -5,4 +6,4 @@ mysql:8.4.3
 mysql:8.0.36
 rabbitmq:3.13.7-management
 jenkins/jenkins
-fredrikbaberg/stirling-pdf
+# fredrikbaberg/stirling-pdf
